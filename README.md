@@ -1,4 +1,3 @@
-```markdown
 ## 🛡️ Intrusion Detection System (IDS) with Artificial Neural Networks
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-brightgreen.svg)](https://www.python.org/)
