@@ -6,10 +6,11 @@
 [![Pandas](https://img.shields.io/badge/Pandas-1.2.4-150458.svg)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.20.2-013243.svg)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-brightgreen.svg)](https://matplotlib.org/)
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 **Project Description**
 
-Aegis is an Artificial Neural Network (ANN)-based Intrusion Detection System designed to safeguard networks by proactively identifying malicious activity and differentiating it from normal traffic.
+Aegis is an Artificial Neural Network (ANN)-based Intrusion Detection System designed to safeguard networks by proactively identifying malicious activity and differentiating it from normal traffic. As a Free and Open Source Software (FOSS) project, Aegis embraces the principles of transparency, collaboration, and community-driven innovation.
 
 **Key Features**
 
@@ -64,12 +65,11 @@ Aegis is an Artificial Neural Network (ANN)-based Intrusion Detection System des
 
 **Contributing**
 
-We welcome contributions to improve and expand Aegis! Feel free to submit issues, feature requests, and pull requests.
+We welcome contributions to improve and expand Aegis! Feel free to submit issues, feature requests, and pull requests. As a FOSS project, we believe in the power of collaboration and invite developers, researchers, and security enthusiasts to join our mission of building robust network defenses.
 
 **Contact**
 
-[Arnab Das] - [arnab.das@g.bracu.ac.bd]
+ARNAB DAS - arnab.das@g.bracu.ac.bd
+AVIZIT SARKAR - avizit.sarkar@g.bracu.ac.bd
 
-[Avizit Sarkar] - [avizit.sarkar@g.bracu.ac.bd]
-
-**✨ Let's collaborate to build robust network defenses! ✨**
+**✨ Embrace the Freedom of Open Source and Secure Your Digital Realm! ✨**
