@@ -70,6 +70,7 @@ We welcome contributions to improve and expand Aegis! Feel free to submit issues
 **Contact**
 
 ARNAB DAS - arnab.das@g.bracu.ac.bd
+
 AVIZIT SARKAR - avizit.sarkar@g.bracu.ac.bd
 
 **✨ Embrace the Freedom of Open Source and Secure Your Digital Realm! ✨**
