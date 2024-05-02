@@ -7,6 +7,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-1.20.2-013243.svg)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-brightgreen.svg)](https://matplotlib.org/)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/aegis/blob/main/aegis.ipynb)
 
 **Project Description**
 
@@ -39,13 +40,15 @@ Aegis is an Artificial Neural Network (ANN)-based Intrusion Detection System des
   - Python 3.x
   - Libraries: pandas, numpy, matplotlib, scikit-learn, tensorflow
 
-2. **Clone Repository:** `git clone https://github.com/thisisarnabdas/aegis.git`
+2. **Clone Repository:** `git clone https://github.com/<your-username>/aegis.git`
 
-3. **Run:** `python main.ipynb`
+3. **Run:** `python main.py` (Customize for your main script name)
+
+4. **Run on Google Colab:** Click the "Open In Colab" badge above to run Aegis directly in your browser using Google Colab.
 
 **Dataset**
 
-- Utilize the KDD Cup 1999 dataset 
+- Utilize the KDD Cup 1999 dataset (or specify your source)
 
 **Technologies**
 
@@ -69,8 +72,6 @@ We welcome contributions to improve and expand Aegis! Feel free to submit issues
 
 **Contact**
 
-ARNAB DAS - arnab.das@g.bracu.ac.bd
-
-AVIZIT SARKAR - avizit.sarkar@g.bracu.ac.bd
+[Your Name or Project Name] - [Your Email or Website]
 
 **✨ Embrace the Freedom of Open Source and Secure Your Digital Realm! ✨**
