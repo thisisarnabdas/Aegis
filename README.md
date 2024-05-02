@@ -48,7 +48,7 @@ Aegis is an Artificial Neural Network (ANN)-based Intrusion Detection System des
 
 **Dataset**
 
-- Utilize the KDD Cup 1999 dataset (or specify your source)
+- Utilize the KDD Cup 1999 dataset 
 
 **Technologies**
 
