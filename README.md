@@ -69,6 +69,7 @@ We welcome contributions to improve and expand Aegis! Feel free to submit issues
 **Contact**
 
 [Arnab Das] - [arnab.das@g.bracu.ac.bd]
+
 [Avizit Sarkar] - [avizit.sarkar@g.bracu.ac.bd]
 
 **✨ Let's collaborate to build robust network defenses! ✨**
