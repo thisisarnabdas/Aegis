@@ -77,8 +77,3 @@ ARNAB DAS - arnab.das@g.bracu.ac.bd
 AVIZIT SARKAR - avizit.sarkar@g.bracu.ac.bd
 
 **✨ Embrace the Freedom of Open Source and Secure Your Digital Realm! ✨**
-
-**Notes:**
-
-- Replace `<your-username>` with your GitHub username.
-- Consider adding a simple diagram to illustrate the architecture visually.
