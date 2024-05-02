@@ -7,7 +7,8 @@
 [![NumPy](https://img.shields.io/badge/NumPy-1.20.2-013243.svg)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-brightgreen.svg)](https://matplotlib.org/)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/aegis/blob/main/aegis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thisisarnabdas
+thisisarnabdas/aegis/blob/main/aegis.ipynb)
 
 **Project Description**
 
