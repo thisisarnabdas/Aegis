@@ -1,12 +1,15 @@
-## 🛡️ Intrusion Detection System (IDS) with Artificial Neural Networks
+## 🛡️ Aegis: Intrusion Detection System (IDS) with Artificial Neural Networks
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-brightgreen.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4.1-FF6F00.svg)](https://www.tensorflow.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.1-F7931E.svg)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.2.4-150458.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.20.2-013243.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-brightgreen.svg)](https://matplotlib.org/)
 
 **Project Description**
 
-This project implements an Artificial Neural Network (ANN)-based Intrusion Detection System designed to safeguard networks by proactively identifying malicious activity differentiating it from normal traffic.
+Aegis is an Artificial Neural Network (ANN)-based Intrusion Detection System designed to safeguard networks by proactively identifying malicious activity and differentiating it from normal traffic.
 
 **Key Features**
 
@@ -20,28 +23,28 @@ This project implements an Artificial Neural Network (ANN)-based Intrusion Detec
 
 - **Data Input** (Raw network data)
 - **Preprocessing**
-  - Data cleaning & normalization
-  - Feature encoding
+ - Data cleaning & normalization
+ - Feature encoding
 - **Dimensionality Reduction** (Principal Component Analysis)
 - **ANN Model**
-  - Input Layer
-  - Hidden Layers (Dense with ReLU activation)
-  - Output Layer (Sigmoid activation for binary classification)
+ - Input Layer
+ - Hidden Layers (Dense with ReLU activation)
+ - Output Layer (Sigmoid activation for binary classification)
 - **Detection Output** (Normal traffic vs. Attack)
 
 **Getting Started**
 
 1. **Prerequisites:**
-   - Python 3.x
-   - Libraries: pandas, numpy, matplotlib, scikit-learn, tensorflow
+  - Python 3.x
+  - Libraries: pandas, numpy, matplotlib, scikit-learn, tensorflow
 
-2. **Clone Repository:** `git clone https://github.com/<your-username>/IDS-ANN.git`
+2. **Clone Repository:** `git clone https://github.com/thisisarnabdas/aegis.git`
 
-3. **Run:** `python main.py` (Customize for your main script name)
+3. **Run:** `python main.ipynb`
 
 **Dataset**
 
-- Utilize the KDD Cup 1999 dataset (or specify your source)
+- Utilize the KDD Cup 1999 dataset 
 
 **Technologies**
 
@@ -51,6 +54,7 @@ This project implements an Artificial Neural Network (ANN)-based Intrusion Detec
 - Scikit-learn
 - TensorFlow
 - Keras
+- Matplotlib
 
 **Future Development**
 
@@ -60,10 +64,11 @@ This project implements an Artificial Neural Network (ANN)-based Intrusion Detec
 
 **Contributing**
 
-We welcome contributions to improve and expand this IDS! Feel free to submit issues, feature requests, and pull requests.
+We welcome contributions to improve and expand Aegis! Feel free to submit issues, feature requests, and pull requests.
 
 **Contact**
 
-[Your Name or Project Name] - [Your Email or Website]
+[Arnab Das] - [arnab.das@g.bracu.ac.bd]
+[Avizit Sarkar] - [avizit.sarkar@g.bracu.ac.bd]
 
 **✨ Let's collaborate to build robust network defenses! ✨**
