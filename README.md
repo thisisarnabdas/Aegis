@@ -42,9 +42,8 @@ Aegis is an Artificial Neural Network (ANN)-based Intrusion Detection System des
 
 2. **Clone Repository:** `git clone https://github.com/thisisarnabdas/aegis.git`
 
-3. **Run:** `python main.ipynb` 
 
-4. **Run on Google Colab:** Click the "Open In Colab" badge above to run Aegis directly in your browser using Google Colab.
+3. **Run on Google Colab:** Click the "Open In Colab" badge above to run Aegis directly in your browser using Google Colab.
 
 **Dataset**
 
